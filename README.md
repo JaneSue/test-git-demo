@@ -8,4 +8,4 @@
 
 测试demo
 
-<div style="color:red">red</div>
+<div style="color:red;">red</div>
