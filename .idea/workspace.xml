@@ -25,8 +25,8 @@
       <file leaf-file-name="component.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1.0.0/component.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12979683">
-              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.025959369">
+              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -42,8 +42,8 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/1.0.0/component.json" />
         <option value="$PROJECT_DIR$/1.0.0/index.js" />
+        <option value="$PROJECT_DIR$/1.0.0/component.json" />
       </list>
     </option>
   </component>
@@ -245,8 +245,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1.0.0/component.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12979683">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.025959369">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
           <folding />
         </state>
       </provider>
