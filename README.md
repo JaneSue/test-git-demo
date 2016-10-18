@@ -1,9 +1,2 @@
-# test-git-demo
+hello github im come back !
 
-
-文件测试，git配置流程
-
-->
-->
-
-测试demo
