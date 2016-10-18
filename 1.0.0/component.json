@@ -1,0 +1,10 @@
+{
+  "name": "test-git-demo",
+  "repo": "janeSue/test-git-demo/1.0.0",
+  "description": "A forEach shim for both array and object",
+  "version": "1.0.0",
+  "keywords": ["test-git-demo"],
+  "scripts": ["index.js"],
+  "dependencies": {},
+  "license": "MIT"
+}
