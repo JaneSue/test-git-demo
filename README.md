@@ -8,4 +8,4 @@
 
 测试demo
 
-<div style="color:#000">123</div>
+<div style="color:red">red</div>
